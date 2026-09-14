@@ -29034,6 +29034,856 @@
         "全地图"
       ],
       "images": []
+    },
+    {
+      "id": "oracle-stone-006-001",
+      "name": "谕石 泊暮区 #001",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -223670.0,
+      "y": 161518.0
+    },
+    {
+      "id": "oracle-stone-006-002",
+      "name": "谕石 泊暮区 #002",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -265076.0,
+      "y": 155645.0
+    },
+    {
+      "id": "oracle-stone-006-003",
+      "name": "谕石 泊暮区 #003",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -247815.0,
+      "y": 125132.0
+    },
+    {
+      "id": "oracle-stone-006-004",
+      "name": "谕石 泊暮区 #004",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -256540.61,
+      "y": 139398.28
+    },
+    {
+      "id": "oracle-stone-006-005",
+      "name": "谕石 泊暮区 #005",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -287464.66,
+      "y": 112054.2
+    },
+    {
+      "id": "oracle-stone-006-006",
+      "name": "谕石 泊暮区 #006",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -269211.0,
+      "y": 90279.0
+    },
+    {
+      "id": "oracle-stone-006-007",
+      "name": "谕石 泊暮区 #007",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -288572.0,
+      "y": 71700.0
+    },
+    {
+      "id": "oracle-stone-006-008",
+      "name": "谕石 泊暮区 #008",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -289666.0,
+      "y": 32286.0
+    },
+    {
+      "id": "oracle-stone-006-009",
+      "name": "谕石 泊暮区 #009",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -303523.0,
+      "y": -38190.0
+    },
+    {
+      "id": "oracle-stone-006-010",
+      "name": "谕石 泊暮区 #010",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -320645.0,
+      "y": -101991.0
+    },
+    {
+      "id": "oracle-stone-006-011",
+      "name": "谕石 泊暮区 #011",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -310284.0,
+      "y": -127895.0
+    },
+    {
+      "id": "oracle-stone-006-012",
+      "name": "谕石 泊暮区 #012",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -291068.88,
+      "y": -197127.52
+    },
+    {
+      "id": "oracle-stone-006-013",
+      "name": "谕石 泊暮区 #013",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -260823.0,
+      "y": -237488.0
+    },
+    {
+      "id": "oracle-stone-006-014",
+      "name": "谕石 泊暮区 #014",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -240984.0,
+      "y": -238407.0
+    },
+    {
+      "id": "oracle-stone-006-015",
+      "name": "谕石 泊暮区 #015",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -220983.0,
+      "y": -229453.0
+    },
+    {
+      "id": "oracle-stone-006-016",
+      "name": "谕石 泊暮区 #016",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -168114.0,
+      "y": -233052.0
+    },
+    {
+      "id": "oracle-stone-006-017",
+      "name": "谕石 泊暮区 #017",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -161626.0,
+      "y": -200541.0
+    },
+    {
+      "id": "oracle-stone-006-018",
+      "name": "谕石 泊暮区 #018",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -138732.0,
+      "y": -143991.0
+    },
+    {
+      "id": "oracle-stone-006-019",
+      "name": "谕石 泊暮区 #019",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -109214.0,
+      "y": -134249.0
+    },
+    {
+      "id": "oracle-stone-006-020",
+      "name": "谕石 泊暮区 #020",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -96358.984,
+      "y": -103165.18
+    },
+    {
+      "id": "oracle-stone-006-021",
+      "name": "谕石 泊暮区 #021",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -215975.0,
+      "y": 63236.0
+    },
+    {
+      "id": "oracle-stone-006-022",
+      "name": "谕石 泊暮区 #022",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -194139.0,
+      "y": 19989.0
+    },
+    {
+      "id": "oracle-stone-006-023",
+      "name": "谕石 泊暮区 #023",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -197497.0,
+      "y": -7930.0
+    },
+    {
+      "id": "oracle-stone-006-024",
+      "name": "谕石 泊暮区 #024",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -160264.0,
+      "y": -57320.0
+    },
+    {
+      "id": "oracle-stone-006-025",
+      "name": "谕石 泊暮区 #025",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -127300.0,
+      "y": -81679.0
+    },
+    {
+      "id": "oracle-stone-006-026",
+      "name": "谕石 泊暮区 #026",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -127029.0,
+      "y": -111369.0
+    },
+    {
+      "id": "oracle-stone-006-027",
+      "name": "谕石 泊暮区 #027",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -224087.0,
+      "y": 43797.0
+    },
+    {
+      "id": "oracle-stone-006-028",
+      "name": "谕石 泊暮区 #028",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -223154.19,
+      "y": 4819.7217
+    },
+    {
+      "id": "oracle-stone-006-029",
+      "name": "谕石 泊暮区 #029",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -197538.0,
+      "y": -36537.0
+    },
+    {
+      "id": "oracle-stone-006-030",
+      "name": "谕石 泊暮区 #030",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -140912.55,
+      "y": -104673.414
+    },
+    {
+      "id": "oracle-stone-006-031",
+      "name": "谕石 泊暮区 #031",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -249185.0,
+      "y": 29216.0
+    },
+    {
+      "id": "oracle-stone-006-032",
+      "name": "谕石 泊暮区 #032",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -242812.0,
+      "y": -26129.0
+    },
+    {
+      "id": "oracle-stone-006-033",
+      "name": "谕石 泊暮区 #033",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -254721.66,
+      "y": 9452.4375
+    },
+    {
+      "id": "oracle-stone-006-034",
+      "name": "谕石 泊暮区 #034",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -217790.0,
+      "y": -64113.0
+    },
+    {
+      "id": "oracle-stone-006-035",
+      "name": "谕石 泊暮区 #035",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -181908.0,
+      "y": -96271.0
+    },
+    {
+      "id": "oracle-stone-006-036",
+      "name": "谕石 泊暮区 #036",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -232781.0,
+      "y": -150184.0
+    },
+    {
+      "id": "oracle-stone-006-037",
+      "name": "谕石 泊暮区 #037",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -286068.0,
+      "y": -87610.0
+    },
+    {
+      "id": "oracle-stone-006-038",
+      "name": "谕石 泊暮区 #038",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -243268.58,
+      "y": -181955.12
+    },
+    {
+      "id": "oracle-stone-006-039",
+      "name": "谕石 泊暮区 #039",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -189878.0,
+      "y": -151825.0
+    },
+    {
+      "id": "oracle-stone-006-040",
+      "name": "谕石 泊暮区 #040",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -229900.0,
+      "y": -45978.0
+    },
+    {
+      "id": "oracle-stone-006-041",
+      "name": "谕石 泊暮区 #041",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -161967.0,
+      "y": -119271.0
+    },
+    {
+      "id": "oracle-stone-006-042",
+      "name": "谕石 泊暮区 #042",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -276415.22,
+      "y": -151500.02
+    },
+    {
+      "id": "oracle-stone-006-043",
+      "name": "谕石 泊暮区 #043",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -233081.5,
+      "y": 37631.04
+    },
+    {
+      "id": "oracle-stone-006-044",
+      "name": "谕石 泊暮区 #044",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -238528.0,
+      "y": -164818.0
+    },
+    {
+      "id": "oracle-stone-006-045",
+      "name": "谕石 泊暮区 #045",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -276696.0,
+      "y": 103281.0
+    },
+    {
+      "id": "oracle-stone-006-046",
+      "name": "谕石 泊暮区 #046",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -229193.0,
+      "y": 123969.0
+    },
+    {
+      "id": "oracle-stone-006-047",
+      "name": "谕石 泊暮区 #047",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -162358.23,
+      "y": -79849.72
+    },
+    {
+      "id": "oracle-stone-006-048",
+      "name": "谕石 泊暮区 #048",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -193500.0,
+      "y": -169793.0
+    },
+    {
+      "id": "oracle-stone-006-049",
+      "name": "谕石 泊暮区 #049",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -157006.8,
+      "y": -162578.22
+    },
+    {
+      "id": "oracle-stone-006-050",
+      "name": "谕石 泊暮区 #050",
+      "types": [
+        "oracle-stone"
+      ],
+      "district": "泊暮区",
+      "description": "泊暮区 · 探索度 · 谕石",
+      "tags": [
+        "探索度",
+        "谕石",
+        "泊暮区"
+      ],
+      "images": [],
+      "x": -278467.0,
+      "y": -24647.0
     }
   ],
   "routes": [
