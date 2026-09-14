@@ -353,6 +353,15 @@
       "icon": "🦟",
       "color": "#ff8a70",
       "isDefault": false
+    },
+    {
+      "id": "headless-rider",
+      "group": "传送点",
+      "label": "无首铁驭",
+      "icon": "·",
+      "iconUrl": "/icons/teleport/boss-13.png",
+      "color": "#87a9ff",
+      "isDefault": false
     }
   ],
   "locations": [
@@ -27894,13 +27903,13 @@
     },
     {
       "id": "local-1782091702027",
-      "name": "无首骑士",
+      "name": "无首铁驭",
       "types": [
-        "phonebooth"
+        "headless-rider"
       ],
       "district": "全地图",
-      "x": -157031.288,
-      "y": 229012.488,
+      "x": -159233.7,
+      "y": 226545.08,
       "description": "",
       "tags": [],
       "images": []
