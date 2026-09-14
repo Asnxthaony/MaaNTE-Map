@@ -345,6 +345,14 @@
       "iconUrl": "/icons/teleport/mnzj.png",
       "color": "#87a9ff",
       "isDefault": false
+    },
+    {
+      "id": "mosquito",
+      "group": "怪物",
+      "label": "包包蚊",
+      "icon": "🦟",
+      "color": "#ff8a70",
+      "isDefault": false
     }
   ],
   "locations": [
@@ -30904,6 +30912,703 @@
       "images": [],
       "x": -202816.0,
       "y": -42735.0
+    },
+    {
+      "id": "mosquito-1",
+      "name": "包包蚊 #1",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -269560.87,
+      "y": 353146.033333
+    },
+    {
+      "id": "mosquito-2",
+      "name": "包包蚊 #2",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -12373.883,
+      "y": 79667.93
+    },
+    {
+      "id": "mosquito-3",
+      "name": "包包蚊 #3",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -8888.713,
+      "y": 85887.734
+    },
+    {
+      "id": "mosquito-4",
+      "name": "包包蚊 #4",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -37029.22,
+      "y": 40268.504
+    },
+    {
+      "id": "mosquito-5",
+      "name": "包包蚊 #5",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -33595.188,
+      "y": 40812.332
+    },
+    {
+      "id": "mosquito-6",
+      "name": "包包蚊 #6",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -189317.73,
+      "y": 139268.6
+    },
+    {
+      "id": "mosquito-7",
+      "name": "包包蚊 #7",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -21522.564,
+      "y": 23361.531
+    },
+    {
+      "id": "mosquito-8",
+      "name": "包包蚊 #8",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -51863.965,
+      "y": 33216.402
+    },
+    {
+      "id": "mosquito-9",
+      "name": "包包蚊 #9",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 37430.696,
+      "y": 100589.556667
+    },
+    {
+      "id": "mosquito-10",
+      "name": "包包蚊 #10",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -80939.38,
+      "y": 155120.803333
+    },
+    {
+      "id": "mosquito-11",
+      "name": "包包蚊 #11",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 18208.805,
+      "y": 135037.58
+    },
+    {
+      "id": "mosquito-12",
+      "name": "包包蚊 #12",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -19903.713,
+      "y": 100053.51
+    },
+    {
+      "id": "mosquito-13",
+      "name": "包包蚊 #13",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -36551.047,
+      "y": 32361.893
+    },
+    {
+      "id": "mosquito-14",
+      "name": "包包蚊 #14",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -32569.72025,
+      "y": 15325.7175
+    },
+    {
+      "id": "mosquito-15",
+      "name": "包包蚊 #15",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -150059.11,
+      "y": 221557.75
+    },
+    {
+      "id": "mosquito-16",
+      "name": "包包蚊 #16",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -181681.97,
+      "y": 112912.914
+    },
+    {
+      "id": "mosquito-17",
+      "name": "包包蚊 #17",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -135725.33,
+      "y": 137958.31
+    },
+    {
+      "id": "mosquito-18",
+      "name": "包包蚊 #18",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -100388.805,
+      "y": 164933.44
+    },
+    {
+      "id": "mosquito-19",
+      "name": "包包蚊 #19",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 23149.457,
+      "y": 105219.984
+    },
+    {
+      "id": "mosquito-20",
+      "name": "包包蚊 #20",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -120713.186,
+      "y": 56229.77125
+    },
+    {
+      "id": "mosquito-21",
+      "name": "包包蚊 #21",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -27113.723,
+      "y": 39229.965
+    },
+    {
+      "id": "mosquito-22",
+      "name": "包包蚊 #22",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -144489.16,
+      "y": 176579.94
+    },
+    {
+      "id": "mosquito-23",
+      "name": "包包蚊 #23",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -5889.852,
+      "y": 41021.855
+    },
+    {
+      "id": "mosquito-24",
+      "name": "包包蚊 #24",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -2111.448,
+      "y": 31174.877
+    },
+    {
+      "id": "mosquito-25",
+      "name": "包包蚊 #25",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 2015.7039,
+      "y": 23790.242
+    },
+    {
+      "id": "mosquito-26",
+      "name": "包包蚊 #26",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -185939.8,
+      "y": 215246.77
+    },
+    {
+      "id": "mosquito-27",
+      "name": "包包蚊 #27",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -148590.775,
+      "y": 197479.65
+    },
+    {
+      "id": "mosquito-28",
+      "name": "包包蚊 #28",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 324.91666,
+      "y": 84490.945
+    },
+    {
+      "id": "mosquito-29",
+      "name": "包包蚊 #29",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -190320.22,
+      "y": 126292.6
+    },
+    {
+      "id": "mosquito-30",
+      "name": "包包蚊 #30",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -123991.95,
+      "y": 191301.05
+    },
+    {
+      "id": "mosquito-31",
+      "name": "包包蚊 #31",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -109282.305,
+      "y": 148162.97
+    },
+    {
+      "id": "mosquito-32",
+      "name": "包包蚊 #32",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -16555.162,
+      "y": 31532.496
+    },
+    {
+      "id": "mosquito-33",
+      "name": "包包蚊 #33",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -14814.855,
+      "y": 90966.86
+    },
+    {
+      "id": "mosquito-34",
+      "name": "包包蚊 #34",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 107.157795,
+      "y": 20392.961
+    },
+    {
+      "id": "mosquito-35",
+      "name": "包包蚊 #35",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -21800.498,
+      "y": 40755.113
+    },
+    {
+      "id": "mosquito-36",
+      "name": "包包蚊 #36",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -4533.9575,
+      "y": 74363.6625
+    },
+    {
+      "id": "mosquito-37",
+      "name": "包包蚊 #37",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 5275.4756,
+      "y": 83331.305
+    },
+    {
+      "id": "mosquito-38",
+      "name": "包包蚊 #38",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": 778.59076,
+      "y": 79479.72
+    },
+    {
+      "id": "mosquito-39",
+      "name": "包包蚊 #39",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -175135.16,
+      "y": 116311.05
+    },
+    {
+      "id": "mosquito-40",
+      "name": "包包蚊 #40",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -255976.13,
+      "y": 352937.273333
+    },
+    {
+      "id": "mosquito-41",
+      "name": "包包蚊 #41",
+      "types": [
+        "mosquito"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 怪物 · 包包蚊",
+      "tags": [
+        "怪物",
+        "包包蚊",
+        "全地图"
+      ],
+      "images": [],
+      "x": -25409.906,
+      "y": 47781.07
     }
   ],
   "routes": [
