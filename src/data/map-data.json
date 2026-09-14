@@ -28966,6 +28966,74 @@
       "images": [
         "/images/locations/local-1784716004303/45f863351a36230a41fef1ea8bbfba16adbead013c7a7e1abc1f1245f067dd7b.webp"
       ]
+    },
+    {
+      "id": "tower-006",
+      "name": "维特海默塔 #006",
+      "types": [
+        "tower"
+      ],
+      "district": "全地图",
+      "description": "全地图 · 传送点 · 维特海默塔",
+      "tags": [
+        "传送点",
+        "维特海默塔",
+        "全地图"
+      ],
+      "images": [],
+      "x": -281093.56,
+      "y": 103972.46
+    },
+    {
+      "id": "phonebooth-006-01",
+      "name": "电话亭 泊暮区 #01",
+      "types": [
+        "phonebooth"
+      ],
+      "district": "全地图",
+      "x": -231500.0,
+      "y": -42200.0,
+      "description": "全地图 · 传送点 · 电话亭",
+      "tags": [
+        "传送点",
+        "电话亭",
+        "全地图"
+      ],
+      "images": []
+    },
+    {
+      "id": "phonebooth-006-02",
+      "name": "电话亭 泊暮区 #02",
+      "types": [
+        "phonebooth"
+      ],
+      "district": "全地图",
+      "x": -245400.0,
+      "y": -180500.0,
+      "description": "全地图 · 传送点 · 电话亭",
+      "tags": [
+        "传送点",
+        "电话亭",
+        "全地图"
+      ],
+      "images": []
+    },
+    {
+      "id": "phonebooth-006-03",
+      "name": "电话亭 泊暮区 #03",
+      "types": [
+        "phonebooth"
+      ],
+      "district": "全地图",
+      "x": -139700.0,
+      "y": -105700.0,
+      "description": "全地图 · 传送点 · 电话亭",
+      "tags": [
+        "传送点",
+        "电话亭",
+        "全地图"
+      ],
+      "images": []
     }
   ],
   "routes": [
